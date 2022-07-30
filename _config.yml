@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Jevon Mao                 
 your_link                                 : github.com/jevonmao         
-your_city                                 : LA with 💙                              
+your_city                                 : Los Angeles with 💙                              
 email_address                             : maoj@smhs.app
 facebook_username                         :                                           
 instagram_username                        : jevon.mao
@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : InClass™ Countdown
     description                           : Beautiful animated visualization of the class time left, designed for students.
-    fontawesome_icon_name                 : clock-o
+    fontawesome_icon_name                 : clock
     
   - title                                 : Schedule
     description                           : Up-to-date official class schedule, seamlessly organized and accessible in your pocket.
-    fontawesome_icon_name                 : calendar-check-o
+    fontawesome_icon_name                 : calendar-check
 
   - title                                 : Grades
     description                           : Direct integration with Aeries Gradebook, check your grades and tweak with What-If assignments.
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Campus News
     description                           : Read the latest campus news articles with a beauitful native reader.
-    fontawesome_icon_name                 : newspaper-o
+    fontawesome_icon_name                 : newspaper
   
   - title                                 : iOS Widgets
     description                           : Easily glance at the schedule with home screen Widgets, the latest from Apple.
@@ -69,7 +69,7 @@ features                                  :
 
   - title                                 : Multimedia Info
     description                           : Access essential school informations and quick links to the school web pages.
-    fontawesome_icon_name                 : file-text
+    fontawesome_icon_name                 : info-circle
 
 
 # Theme Settings
