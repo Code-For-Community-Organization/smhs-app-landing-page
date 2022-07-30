@@ -35,46 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : InClass™ Countdown
+    description                           : Beautiful animated visualization of the class time left, designed for students.
+    fontawesome_icon_name                 : fa-clock-o
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Schedule
+    description                           : Up-to-date official class schedule, seamlessly organized and accessible in your pocket.
+    fontawesome_icon_name                 : fa-calendar-check-o
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Grades
+    description                           : Direct integration with Aeries Gradebook, check your grades and tweak with What-If assignments.
+    fontawesome_icon_name                 : fa-graduation-cap
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : School Calendar
+    description                           : Never miss another school event with an elegant, modern, in-app calendar.
+    fontawesome_icon_name                 : fa-calendar
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Campus News
+    description                           : Read the latest campus news articles with a beauitful native reader.
+    fontawesome_icon_name                 : fa-newspaper-o
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : iOS Widgets
+    description                           : Easily glance at the schedule with home screen Widgets, the latest from Apple.
+    fontawesome_icon_name                 : fa-mobile
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Privacy, Built-In
+    description                           : Privacy is a foundamental pillar of SMHS, all of your data are encrypted and never shared.
+    fontawesome_icon_name                 : fa-user-secret
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Even Faster
+    description                           : Lightning fast launch and loading times to deliver the smoothest experience.
+    fontawesome_icon_name                 : fa-bolt
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  - title                                 : Multimedia Info
+    description                           : Access essential school informations and quick links to the school web pages.
+    fontawesome_icon_name                 : fa-file-text
 
 
 # Theme Settings
