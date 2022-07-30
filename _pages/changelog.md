@@ -9,17 +9,18 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### `Latest Release` • [`Download NOW!`](https://apps.apple.com/us/app/smhs-school-app/id1565099095)
+# **Version 3.1.0** 
+This is our biggest, most supercharged update ever. From a new what-if grades editor engine to various bug fixes and performance improvements, we are taking the Santa Margarita Catholic experience to the next level.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- All-new What-If editor engine for grade now available! Drop assignments, compute hypothetical scores, and more...
+- Improved loading and smooth scrolling
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Fixed incorrect/bad schedules
+- Fixed an issue where period 8 still showed on holidays
+- Fixed an issue where activity information won't show on Sundays
 
 <br>
 
