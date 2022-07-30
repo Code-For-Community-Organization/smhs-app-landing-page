@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Jevon Mao                 
 your_link                                 : github.com/jevonmao         
-your_city                                 : Irvine                                
+your_city                                 : LA with 💙                              
 email_address                             : maoj@smhs.app
 facebook_username                         :                                           
 instagram_username                        : jevon.mao
@@ -37,39 +37,39 @@ features                                  :
 
   - title                                 : InClass™ Countdown
     description                           : Beautiful animated visualization of the class time left, designed for students.
-    fontawesome_icon_name                 : fa-clock-o
+    fontawesome_icon_name                 : clock-o
     
   - title                                 : Schedule
     description                           : Up-to-date official class schedule, seamlessly organized and accessible in your pocket.
-    fontawesome_icon_name                 : fa-calendar-check-o
+    fontawesome_icon_name                 : calendar-check-o
 
   - title                                 : Grades
     description                           : Direct integration with Aeries Gradebook, check your grades and tweak with What-If assignments.
-    fontawesome_icon_name                 : fa-graduation-cap
+    fontawesome_icon_name                 : graduation-cap
 
   - title                                 : School Calendar
     description                           : Never miss another school event with an elegant, modern, in-app calendar.
-    fontawesome_icon_name                 : fa-calendar
+    fontawesome_icon_name                 : calendar
 
   - title                                 : Campus News
     description                           : Read the latest campus news articles with a beauitful native reader.
-    fontawesome_icon_name                 : fa-newspaper-o
+    fontawesome_icon_name                 : newspaper-o
   
   - title                                 : iOS Widgets
     description                           : Easily glance at the schedule with home screen Widgets, the latest from Apple.
-    fontawesome_icon_name                 : fa-mobile
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy, Built-In
     description                           : Privacy is a foundamental pillar of SMHS, all of your data are encrypted and never shared.
-    fontawesome_icon_name                 : fa-user-secret
+    fontawesome_icon_name                 : user-secret
 
   - title                                 : Even Faster
     description                           : Lightning fast launch and loading times to deliver the smoothest experience.
-    fontawesome_icon_name                 : fa-bolt
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Multimedia Info
     description                           : Access essential school informations and quick links to the school web pages.
-    fontawesome_icon_name                 : fa-file-text
+    fontawesome_icon_name                 : file-text
 
 
 # Theme Settings
